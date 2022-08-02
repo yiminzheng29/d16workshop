@@ -1,4 +1,4 @@
-package vttp.day16.Day16.workshop;
+package vttp.day16.Day16.workshop.controllers;
 
 import java.util.List;
 
